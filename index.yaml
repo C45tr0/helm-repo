@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  logging-operator:
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2020-02-25T10:40:12.360629-07:00"
+    description: A Helm chart to install Banzai Cloud logging-operator
+    digest: bb1022977cae171695b996bdf6e8baabe3136d1c026f2474f550298892d95fa6
+    name: logging-operator
+    urls:
+    - https://c45tr0.github.io/helm-repo/logging-operator-3.0.0.tgz
+    version: 3.0.0
+generated: "2020-02-25T10:40:12.353243-07:00"
