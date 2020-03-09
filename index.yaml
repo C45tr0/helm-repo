@@ -3,20 +3,31 @@ entries:
   logging-operator:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-03-04T23:00:59.790312-07:00"
-    description: A Helm chart to install Banzai Cloud logging-operator
-    digest: bb1022977cae171695b996bdf6e8baabe3136d1c026f2474f550298892d95fa6
-    name: logging-operator
-    urls:
-    - https://c45tr0.github.io/helm-repo/logging-operator-3.0.0.tgz
-    version: 3.0.0
-  - apiVersion: v1
-    appVersion: 3.0.0
-    created: "2020-03-04T23:00:59.794723-07:00"
+    created: "2020-03-09T11:07:48.356757-06:00"
     description: A Helm chart to install Banzai Cloud logging-operator
     digest: 8fb290fd2a2a5da338bb7273b311ca018081a12a5beae33e281eb5a5bc0739bd
     name: logging-operator
     urls:
     - https://c45tr0.github.io/helm-repo/logging-operator-3.0.3.tgz
     version: 3.0.3
-generated: "2020-03-04T23:00:59.78343-07:00"
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2020-03-09T11:07:48.349411-06:00"
+    description: A Helm chart to install Banzai Cloud logging-operator
+    digest: bb1022977cae171695b996bdf6e8baabe3136d1c026f2474f550298892d95fa6
+    name: logging-operator
+    urls:
+    - https://c45tr0.github.io/helm-repo/logging-operator-3.0.0.tgz
+    version: 3.0.0
+  logging-operator-logging:
+  - apiVersion: v1
+    appVersion: 2.7.0
+    created: "2020-03-09T11:07:48.357199-06:00"
+    description: A Helm chart to configure logging resource for the Logging operator
+    digest: c7665c5e218d3e9f9cbc238e2284192ddbd284561d54b7e08cbe12b2c19cfd63
+    icon: https://raw.githubusercontent.com/banzaicloud/logging-operator/master/docs/img/icon.png
+    name: logging-operator-logging
+    urls:
+    - https://c45tr0.github.io/helm-repo/logging-operator-logging-2.7.4.tgz
+    version: 2.7.4
+generated: "2020-03-09T11:07:48.342028-06:00"
